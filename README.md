@@ -11,6 +11,8 @@ MuseDashWiki
 <div align="left">
 
 
+**如果本页面Release/bd网盘等资源文件未更新 or 不存在，请前往项目原地址 [musewiki - Soung2279](Https://github.com/Soung2279/musewiki) 查看**
+  
 →→ **[查看更新日志](#更新日志)**
 
 ![Visitors](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=Soung2279.musewiki.readme)
