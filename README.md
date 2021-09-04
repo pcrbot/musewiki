@@ -10,12 +10,11 @@ MuseDashWiki
 ===========================
 <div align="left">
 
-
 **如果本页面Release/bd网盘等资源文件未更新 or 不存在，请前往项目原地址 [musewiki - Soung2279](Https://github.com/Soung2279/musewiki) 查看**
-  
+
 →→ **[查看更新日志](#更新日志)**
 
-![Visitors](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=Soung2279.musewiki.readme)
+![Visitors](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=pcrbot.musewiki.readme)
 
 ### 功能介绍
 
@@ -116,15 +115,17 @@ MODULES_ON = {
 <details>
   <summary>百度网盘</summary>
  
- - [语音资源包 - 1.6g](https://pan.baidu.com/s/1uu8NpD6GT2RxWaVS_K4o8A)
- > 包含demo歌曲，角色语音，菜单bgm等
- > 提取码：2279
- > 更新时间：2021/9/4
+ - [语音资源包 - 1.6g](https://pan.baidu.com/s/1yjZ_8pInWjWzMVveT87TCA)
 
- - [图片资源包 - 952mb](https://pan.baidu.com/s/1RJgK26UIDoKxRYGsPXq_cQ)
- > 包含歌曲封面图片，角色/精灵图片，UI等
- > 提取码：2279
- > 更新时间：2021/9/4
+> 包含demo歌曲，角色语音，菜单bgm等
+> 提取码：2279
+> 更新时间：2021/9/4
+
+ - [图片资源包 - 952mb](https://pan.baidu.com/s/1qzd_-E_Z264C4H7K-QSHwQ)
+
+> 包含歌曲封面图片，角色/精灵图片，UI等
+> 提取码：2279
+> 更新时间：2021/9/4
   
 </details>
 
